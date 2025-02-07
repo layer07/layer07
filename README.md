@@ -1,9 +1,9 @@
 
 ## Hiya!
 
-Welcome to my GitHub! I'm D. Leatti, a Dev from Brazil.
+### Welcome to my GitHub! I'm D. Leatti, a Dev from Brazil.
 
-PSA: This README contains:
+**PSA: This README contains:**
 - **0** - *"disrupted the industry"* claims 
 - **0** - *"AI-powered, blockchain, cloud"* **buzzwords**
 - **12%** - Actual usable code

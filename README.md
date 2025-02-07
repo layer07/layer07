@@ -20,7 +20,8 @@ I've also built: SRE/observability tools, some API Hooking guides (for detours.d
 **Mu Online Bot:** [Reverse Engineering Mu Online Network Protocol](https://kernelriot.com/blog/reverse-engineering-mu-online-network-protocol) 
 
 **Silkroad Online Bot:** [Clientless Bot for Silkroad Online](https://kernelriot.com/blog/silkroad-online-clientless-bot) 
-both bots contains hundreds of thousands of SLOCs, I **really, REALLY** like to write bots.
+
+*both bots contains hundreds of thousands of SLOCs, I **really, REALLY** like to write bots.*
 
 Almost everything that I write is either in **C** or **C#**. Personally, I prefer **Procedural or Functional** over **strict OOP**; less is more, and I honestly only care about performance, I've written enterprise code that I am not proud of, and some that I am. 
 

@@ -3,11 +3,11 @@
 
 Welcome to my GitHub! I'm D. Leatti, a Dev from Brazil.
 
-PSA: This post contains:
-- **0** - "disrupted the industry" claims 
-- **0** - "AI-powered blockchain cloud" **buzzwords**
+PSA: This README contains:
+- **0** - *"disrupted the industry"* claims 
+- **0** - *"AI-powered, blockchain, cloud"* **buzzwords**
 - **12%** - Actual usable code
-- **100%** Unfiltered honesty
+- **100%** - Unfiltered honesty
 
 I wrote → [HWHash](https://www.nuget.org/packages/HWHash) ← for high granularity hardware monitoring.
 *It looked like no one wanted to work with ```shared memory, pointers``` and ```structs``` but overclockers like myself, kinda needed it.*
@@ -31,7 +31,6 @@ Almost everything that I write is either in **C** or **C#**. Personally, I prefe
 - **Datamining** - From scraping to results
 - **SQLite** - Yep, im on that team
 - **Postgres** - And this one too
-
 - **Automation in general**  
   *Including extreme automation, intelligent systems, and reverse engineering strictly with the intent to automate*
 

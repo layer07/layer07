@@ -4,10 +4,10 @@
 Welcome to my GitHub! I'm D. Leatti, a Dev from Brazil.
 
 PSA: This post contains:
-- 0 "disrupted the industry" claims 
-- 0 "AI-powered blockchain cloud" buzzwords
-- 12% actual usable code
-- 100% Real
+- **0** "disrupted the industry" claims 
+- **0** "AI-powered blockchain cloud" buzzwords
+- **12%** Actual usable code
+- **100%** Unfiltered honesty
 
 I wrote → [HWHash](https://www.nuget.org/packages/HWHash) ← for high granularity hardware monitoring.
 *It looked like no one wanted to work with ```shared memory, pointers``` and ```structs``` but overclockers like myself, kinda needed it.*

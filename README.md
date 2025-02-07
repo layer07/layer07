@@ -4,9 +4,9 @@
 Welcome to my GitHub! I'm D. Leatti, a Dev from Brazil.
 
 PSA: This post contains:
-- **0** "disrupted the industry" claims 
-- **0** "AI-powered blockchain cloud" buzzwords
-- **12%** Actual usable code
+- **0** - "disrupted the industry" claims 
+- **0** - "AI-powered blockchain cloud" **buzzwords**
+- **12%** - Actual usable code
 - **100%** Unfiltered honesty
 
 I wrote → [HWHash](https://www.nuget.org/packages/HWHash) ← for high granularity hardware monitoring.

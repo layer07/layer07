@@ -28,7 +28,7 @@ Almost everything that I write is either in **C** or **C#**. Personally, I prefe
 **Things I Enjoy:**
 
 - **C** - *Nothing beats it*
-- **ASM** - *I wrote PunkMark, a Benchmark tool that is full of ASM benchmarks, AVX and such* 
+- **ASM** - *I wrote PunkMark, a Benchmark tool that is full of ASM benchmarks for AVX, FP, Physics and such* 
 - **C#** - *I am a LINQ enjoyer*
 - **C++** *only the parts that matter*
 - **Rust** (yep)

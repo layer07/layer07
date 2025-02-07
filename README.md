@@ -16,7 +16,9 @@ And then I built this thing → [μBiT::EYE](https://ubit.watch) ← for **Micro
 *Because apparently no one told MicroBT that 2020s UIs shouldn't look like Winamp skins, and I wanted to export my ASICs sensor data elsewhere, using Prometheus or InfluxDB.*
 
 I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and even built a couple of MMORPG bots:
+
 **Mu Online Bot:** [Reverse Engineering Mu Online Network Protocol](https://kernelriot.com/blog/reverse-engineering-mu-online-network-protocol) 
+
 **Silkroad Online Bot:** [Clientless Bot for Silkroad Online](https://kernelriot.com/blog/silkroad-online-clientless-bot) 
 both bots contains hundreds of thousands of SLOCs, I **really, REALLY** like to write bots.
 

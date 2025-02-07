@@ -17,7 +17,7 @@ And then I built this thing → [μBiT::EYE](https://ubit.watch) ← for **Micro
 
 I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and even built a couple of MMORPG bots: - **Mu Online Bot:** [Reverse Engineering Mu Online Network Protocol](https://kernelriot.com/blog/reverse-engineering-mu-online-network-protocol) - **Silkroad Online Bot:** [Clientless Bot for Silkroad Online](https://kernelriot.com/blog/silkroad-online-clientless-bot) that contains hundreds of thousands of SLOC.
 
-Almost everything that I write is either in **C** or **C#**, I often do **Procedural** or **Functional** over **strict OOP**; less is more, and I honestly only care about performance, I've written enterprise code that I am not proud of, and some that I am. 
+Almost everything that I write is either in **C** or **C#**. Personally, I prefer **Procedural or Functional** over **strict OOP**; less is more, and I honestly only care about performance, I've written enterprise code that I am not proud of, and some that I am. 
 
 **Things I Enjoy:**
 

@@ -11,7 +11,7 @@ And then I built this thing → [μBiT::EYE](https://ubit.watch) ← for **Micro
 
 I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and even built a couple of MMORPG bots:
 
-**MU Online Bot:** [Reverse Engineering Mu Online Network Protocol](https://kernelriot.com/blog/reverse-engineering-mu-online-network-protocol) 
+**MU Online Bot:** [Reverse Engineering Mu Online Network Protocol](https://kernelriot.com/blog/reverse-engineering-mu-online-protocol) 
 
 **Silkroad Online Bot:** [Clientless Bot for Silkroad Online](https://kernelriot.com/blog/silkroad-online-clientless-bot) 
 

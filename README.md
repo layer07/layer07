@@ -9,30 +9,7 @@ I wrote → [HWHash](https://www.nuget.org/packages/HWHash) ← for high granula
 And then I built this thing → [μBiT::EYE](https://ubit.watch) ← for **MicroBT** ASICs **observability**. 
 *Because apparently no one told MicroBT that 2020s UIs shouldn't look like Winamp skins, and I wanted to export my ASICs sensor data elsewhere, using Prometheus or InfluxDB.*
 
-I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and even built a couple of MMORPG bots:
-
-**MU Online Bot:** [Reverse Engineering Mu Online Network Protocol](https://kernelriot.com/blog/reverse-engineering-mu-online-protocol) 
-
-**Silkroad Online Bot:** [Clientless Bot for Silkroad Online](https://kernelriot.com/blog/silkroad-online-clientless-bot) 
-
-*both bots contains hundreds of thousands of SLOCs, I **really, REALLY** like to write bots.*
-
-Almost everything that I write is either in **C** or **C#**. Personally, I prefer **Procedural or Functional** over **strict OOP**; less is more, and I honestly only care about performance, I've written enterprise code that I am not proud of, and some that I am. 
-
-**Things I Enjoy:**
-
-- **C** - *Nothing beats it*
-- **ASM** - *I wrote PunkMark, a Benchmark tool that is full of ASM benchmarks for AVX, FP, Physics and such* 
-- **C#** - *I am a LINQ enjoyer*
-- **C++** *only the parts that matter*
-- **Rust** (yep)
-- **Hardware** - Cache Architecture, instructions, optimizations, etc...
-- **SRE** - From oldschool SysAdmin to a more *modern* name, but still
-- **Datamining** - From scraping to results
-- **SQLite** - Yep, im on that team
-- **Postgres** - And this one too
-- **Automation in general**  
-  *Including extreme automation, intelligent systems, and reverse engineering strictly with the intent to automate*
+I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and built a couple of MMORPG bots:
 
 I've got a backgrounds in Computer Science and Linguistics and I've worked as a L2 Support Agent, NLP/ML Consultant, DevOps/Project Manager and, of course, full stack developer, but I am, in essence, just a nerd.
 

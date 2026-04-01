@@ -1,7 +1,7 @@
 
 ## Hiya!
 
-### Welcome to my GitHub! I'm D. Leatti, a Dev from Brazil.
+### Welcome to my GitHub! I'm Magnus Leatti.
 
 I wrote → [HWHash](https://www.nuget.org/packages/HWHash) ← for high granularity hardware monitoring.
 *It looked like no one wanted to work with ```shared memory, pointers``` and ```structs``` but overclockers like myself, kinda needed it.*

@@ -11,7 +11,7 @@ And then I built this thing → [μBiT::EYE](https://ubit.watch) ← for **Micro
 
 I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and built a couple of MMORPG bots:
 
-I've got a backgrounds in Computer Science and Linguistics and I've worked as a L2 Support Agent, NLP/ML Consultant, DevOps/Project Manager and, of course, full stack developer, but I am, in essence, just a nerd.
+Background in Computer Science and Linguistics and I've worked as a L2 Support Agent, NLP/ML Consultant, DevOps/Project Manager and, of course, full stack developer, but I am, in essence, just a nerd.
 
 
 <!--

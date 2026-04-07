@@ -9,7 +9,7 @@ I wrote → [HWHash](https://www.nuget.org/packages/HWHash) ← for high granula
 And then I built this thing → [μBiT::EYE](https://ubit.kernelriot.com) ← for **MicroBT** ASICs **observability**. 
 *Because apparently no one told MicroBT that 2020s UIs shouldn't look like Winamp skins, and I wanted to export my ASICs sensor data elsewhere, using Prometheus or InfluxDB.*
 
-I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and built a couple of MMORPG bots:
+I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and lots of MMORPG netcode.
 
 Background in Computer Science and Linguistics and I've worked as a L2 Support Agent, NLP/ML Consultant, DevOps/Project Manager and, of course, full stack developer, but I am, in essence, just a nerd.
 

@@ -6,7 +6,7 @@
 I wrote → [HWHash](https://www.nuget.org/packages/HWHash) ← for high granularity hardware monitoring.
 *It looked like no one wanted to work with ```shared memory, pointers``` and ```structs``` but overclockers like myself, kinda needed it.*
 
-And then I built this thing → [μBiT::EYE](https://ubit.watch) ← for **MicroBT** ASICs **observability**. 
+And then I built this thing → [μBiT::EYE](https://ubit.kernelriot.com) ← for **MicroBT** ASICs **observability**. 
 *Because apparently no one told MicroBT that 2020s UIs shouldn't look like Winamp skins, and I wanted to export my ASICs sensor data elsewhere, using Prometheus or InfluxDB.*
 
 I've also built: SRE/observability tools, some API Hooking guides (for detours.dll), and built a couple of MMORPG bots:
